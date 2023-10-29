@@ -2,7 +2,8 @@
 
 # Fake News Detector
 
-![Project Image](insert_image_url_here)
+![image](https://github.com/Naivedya-Rai/Fake-News-Classifier-/assets/122347651/b0eaba04-3d87-460a-ba6c-23d3398ba635)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
